@@ -58,6 +58,9 @@ body
   height: 100%;
   object-fit: cover;  
 }
+
+/*Sección de Contacto*/
+
 .TextoPerfil h2
 {
     color: #fff;
@@ -107,6 +110,9 @@ color: rgb(241, 49, 193);
 color: #fff;
 font-weight: 300;
 }
+
+/*Sección de Educación*/
+
 .InfoContacto.educacion li
 {
     margin-bottom: 15px;
@@ -126,6 +132,9 @@ font-weight: 300;
     color: #fff;
     font-weight: 500;
 }
+
+/*Sección de Idiomas*/
+
 .InfoContacto.Lenguaje .percent
 {
     position: relative;
@@ -150,6 +159,9 @@ font-weight: 300;
     background: #fff;
     padding: 40px;
 }
+
+/*Sección de Perfil*/
+
 .sobre
 {
     margin-bottom: 50px;
@@ -158,6 +170,9 @@ font-weight: 300;
 {
     margin-bottom: 0;
 }
+
+/*Sección de Experiencia*/
+
 .title2
 {
   color: rgb(100, 20, 100);  
@@ -191,6 +206,9 @@ text-transform: uppercase;
 color: rgb(206, 61, 211);
 font-size: 16px;
 }
+
+/*Sección de Habilidades Profesionales*/
+
 .habilidades .box
 {
     position: relative;
